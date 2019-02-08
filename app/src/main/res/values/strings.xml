@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IRCSA</string>
+    <string name="title">IRC, SOCIEDAD ANONIMA</string>
+    <string name="address">19 Calle 15-30 Zona 10 Guatemala, Guatemala</string>
+    <string name="web">www.irc.com.gt</string>
+    <string name="movil">Movil: (502) 59781087</string>
+    <string name="mail">info@irc.com.gt</string>
+</resources>
